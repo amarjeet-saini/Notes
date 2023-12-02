@@ -1,0 +1,15 @@
+**********  TOPICS  **********
+
+1. Von-neumann architecture
+2. Bus: system bus, i/o bus
+3. CPU: datapath, control unit, internal bus
+4. Instruction Cycle
+5. Control Unit: Microprogrammed, Hard-Wired logic
+6. Input/Output in general
+7. Polling
+8. Interrupt
+
+**********  NOTES ********** 
+
+
+
